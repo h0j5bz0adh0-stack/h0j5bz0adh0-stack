@@ -1,20 +1,19 @@
 <div align="center">
 
-<img src="./assets/identity.svg" width="900" alt="Animated Aqua Launch identity with ASCII portrait and ASCII wordmark" />
+<img src="https://raw.githubusercontent.com/h0j5bz0adh0-stack/h0j5bz0adh0-stack/main/assets/identity.svg" width="900" alt="Animated Aqua Launch identity with ASCII portrait and ASCII wordmark" />
 
 <br><br>
 
-<img src="./assets/contributions.svg" width="900" alt="Animated contribution activity with moving spacecraft" />
+<img src="https://raw.githubusercontent.com/h0j5bz0adh0-stack/h0j5bz0adh0-stack/main/assets/contributions.svg" width="900" alt="Animated contribution activity with moving spacecraft" />
 
 <br><br>
 
-<img src="./assets/signal.svg" width="900" alt="Live GitHub profile signal and language stack" />
+<img src="https://raw.githubusercontent.com/h0j5bz0adh0-stack/h0j5bz0adh0-stack/main/assets/signal.svg" width="900" alt="Live GitHub profile signal and language stack" />
 
 <br><br>
 
-<a href="https://artabidkhori.com"><img src="https://img.shields.io/badge/PORTFOLIO-43ead3?style=for-the-badge&labelColor=071416&color=43ead3" alt="Portfolio" /></a>
-<a href="https://github.com/Jenesyx"><img src="https://img.shields.io/badge/GITHUB-4387ff?style=for-the-badge&logo=github&logoColor=dcfff7&labelColor=071416" alt="GitHub" /></a>
-<a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/CONTACT-9b6cff?style=for-the-badge&logo=gmail&logoColor=dcfff7&labelColor=071416" alt="Email" /></a>
+<a href="https://github.com/h0j5bz0adh0-stack"><img src="https://img.shields.io/badge/GITHUB-4387ff?style=for-the-badge&logo=github&logoColor=dcfff7&labelColor=071416" alt="GitHub" /></a>
+<a href="mailto:h0j5bz0adh0-stack@gmail.com"><img src="https://img.shields.io/badge/CONTACT-9b6cff?style=for-the-badge&logo=gmail&logoColor=dcfff7&labelColor=071416" alt="Email" /></a>
 
 <br>
 
